@@ -1,3 +1,8 @@
+# references:
+# https://code.likeagirl.io/finding-dominant-colour-on-an-image-b4e075f98097
+# https://docs.opencv.org/4.x/dc/da5/tutorial_py_drawing_functions.html
+# https://www.geeksforgeeks.org/how-to-update-a-plot-on-same-figure-during-the-loop/
+
 import numpy as np
 import cv2 as cv
 import time

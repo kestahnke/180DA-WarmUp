@@ -1,4 +1,8 @@
-# code from https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html
+# refereces:
+# https://docs.opencv.org/3.0-beta/doc/py_tutorials/py_gui/py_video_display/py_video_display.html
+# https://docs.opencv.org/4.x/df/d9d/tutorial_py_colorspaces.html
+# https://docs.opencv.org/4.x/d7/d4d/tutorial_py_thresholding.html
+# https://automaticaddison.com/real-time-object-tracking-using-opencv-and-a-webcam/
 
 import numpy as np
 import cv2 as cv
